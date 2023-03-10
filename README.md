@@ -32,6 +32,7 @@ DATA VISUALIZATION:
 ![2023-03-10 (7)](https://user-images.githubusercontent.com/106903132/224371291-600ea3ab-514a-4085-8491-f74fc05c32ee.png)
 
 WEB APPLICATION:
+
 ![image](https://user-images.githubusercontent.com/106903132/224371497-c2a171cd-b039-4824-9b0e-985b3c509078.png)
 
 ![image](https://user-images.githubusercontent.com/106903132/224371585-90289c56-8e55-4b10-9222-43746e8b3fc2.png)
